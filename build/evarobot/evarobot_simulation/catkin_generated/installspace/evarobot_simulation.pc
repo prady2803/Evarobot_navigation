@@ -1,0 +1,8 @@
+prefix=/home/hp/BEProject/install
+
+Name: evarobot_simulation
+Description: Description of evarobot_simulation
+Version: 0.0.7
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

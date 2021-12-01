@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/vyanky/BE_Projects/ROS/agv_Eva_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/vyanky/nav2_ws/install/smac_planner/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_controller/include/**",
+        "/home/vyanky/nav2_ws/install/dwb_plugins/include/**",
+        "/home/vyanky/nav2_ws/install/dwb_critics/include/**",
+        "/home/vyanky/nav2_ws/install/nav_2d_utils/include/**",
+        "/home/vyanky/nav2_ws/install/dwb_msgs/include/**",
+        "/home/vyanky/nav2_ws/install/nav_2d_msgs/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_recoveries/include/**",
+        "/home/vyanky/BE_Projects/agv_ws/install/rplidar_ros/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_navfn_planner/include/**",
+        "/home/vyanky/nav2_ws/install/dwb_core/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_core/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_costmap_2d/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_voxel_grid/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_waypoint_follower/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_planner/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_lifecycle_manager/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_bt_navigator/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_behavior_tree/include/**",
+        "/home/vyanky/nav2_ws/install/costmap_queue/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_util/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_msgs/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_amcl/include/**",
+        "/home/vyanky/ros2_ws/install/my_robot_interfaces/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_map_server/include/**",
+        "/home/vyanky/nav2_ws/install/nav2_rviz_plugins/include/**",
+        "/home/vyanky/ros2_tutorial_ws/action_ws/install/action_interfaces/include/**",
+        "/home/vyanky/BE_Projects/ROS/agv_Eva_ws/src/driver_common/driver_base/include/**",
+        "/home/vyanky/BE_Projects/ROS/agv_OTA/src/robot_state_publisher/include/**",
+        "/home/vyanky/BE_Projects/ROS/agv_ws/src/slam_navigation/include/**",
+        "/home/vyanky/BE_Projects/ROS/agv_Eva_ws/src/driver_common/timestamp_tools/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

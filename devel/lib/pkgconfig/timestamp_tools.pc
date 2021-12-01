@@ -1,0 +1,8 @@
+prefix=/home/hp/BEProject/devel
+
+Name: timestamp_tools
+Description: Description of timestamp_tools
+Version: 1.6.8
+Cflags: -I/home/hp/BEProject/src/driver_common/timestamp_tools/include
+Libs: -L${prefix}/lib 
+Requires: roslib roscpp

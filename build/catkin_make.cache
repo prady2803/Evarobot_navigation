@@ -1,0 +1,2 @@
+aws-robomaker-small-warehouse-world:driver_common/driver_base:driver_common/driver_common:driver_common/timestamp_tools:evarobot/evarobot:evarobot/evarobot_description:evarobot/evarobot_navigation:evarobot/evarobot_simulation:evarobot/evarobot_slam:interactive_marker_twist_server:slam_gmapping/gmapping:slam_gmapping/slam_gmapping:teleop_twist_keyboard
+-DCATKIN_DEVEL_PREFIX=/home/hp/BEProject/devel -DCMAKE_INSTALL_PREFIX=/home/hp/BEProject/install -G Unix Makefiles
